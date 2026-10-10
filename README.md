@@ -4,7 +4,7 @@ A managed PS5 kernel log server with a native OnionHEN dynamic settings UI
 
 
 This repository packages the PS5 `klogsrv` payload as a standalone OnionHEN
-plugin. The upstream prebuilt payload ELF (`assets/klogsrv-ps5.elf`) 
+plugin
 
 
 The plugin process starts automatically so it can publish its settings page.
