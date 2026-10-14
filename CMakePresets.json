@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "configurePresets": [
+    {
+      "name": "ps5",
+      "displayName": "PS5 release",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build-ps5",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_TOOLCHAIN_FILE": "${sourceDir}/cmake/ps5-toolchain.cmake",
+        "PS5_PAYLOAD_SDK": "$env{PS5_PAYLOAD_SDK}"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "ps5",
+      "configurePreset": "ps5"
+    }
+  ]
+}
