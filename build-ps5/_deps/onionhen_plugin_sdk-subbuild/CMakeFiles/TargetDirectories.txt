@@ -1,0 +1,3 @@
+/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/CMakeFiles/onionhen_plugin_sdk-populate.dir
+/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/CMakeFiles/rebuild_cache.dir

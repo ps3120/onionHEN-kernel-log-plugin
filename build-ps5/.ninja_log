@@ -1,0 +1,21 @@
+# ninja log v5
+133	729	1791562276572819300	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/status.c.obj	4ffcb03250228ee5
+119	749	1791562276579867200	CMakeFiles/klog.dir/source/embedded_payloads.c.obj	ec9390295201e91b
+122	773	1791562276579867200	CMakeFiles/klog.dir/source/plugin_descriptor.c.obj	34728c1c1720f948
+111	785	1791562276609954900	CMakeFiles/klog.dir/source/klog_i18n.c.obj	f26b1261ae0dd36c
+129	796	1791562276627479000	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/host_api.c.obj	fafb3330f6e3b68e
+147	810	1791562276627479000	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/runtime.c.obj	7a5ca22813231cb2
+124	818	1791562276643476000	CMakeFiles/klog.dir/source/plugin_settings.c.obj	ab8b9fd576210c74
+142	828	1791562276638478100	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/services.c.obj	e9f56c2bff80aae9
+151	834	1791562276666515000	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/event_bus.c.obj	d82c9bbe9589e0b5
+116	842	1791562276689072600	CMakeFiles/klog.dir/source/elfldr_client.c.obj	23c39ddaa8888bd1
+137	850	1791562276686077600	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/transport.c.obj	548e7a86f7c0e244
+174	856	1791562276685079200	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/ui_event.c.obj	6889ba3c4e3b75ad
+109	864	1791562276724074100	CMakeFiles/klog.dir/source/main.c.obj	8bd736726c827c18
+114	874	1791562276718073000	CMakeFiles/klog.dir/source/klog_service.c.obj	a7e5572115866992
+127	883	1791562276706074500	CMakeFiles/klog.dir/source/plugin_ui.c.obj	d54d5402960d8fd0
+168	889	1791562276710073800	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/ui_client.c.obj	9efcc20be50d6f25
+156	893	1791562276751072600	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/client.c.obj	edb40896f8766d64
+162	939	1791562276794073700	_deps/onionhen_plugin_sdk-build/runtime/CMakeFiles/onion_sdk_runtime.dir/ui.c.obj	f12ab6fc60fa5bb
+950	1780	1791562277275807900	_deps/onionhen_plugin_sdk-build/runtime/libonion_sdk_runtime.a	f3b676dd7ea6047b
+1784	3615	1791562279341267400	bin/KLOG00001.elf	3e22031f26a94444

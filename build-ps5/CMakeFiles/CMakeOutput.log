@@ -1,0 +1,114 @@
+The target system is: Generic -  - x86_64
+The host system is: Linux - 6.18.40.1-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/bin/prospero-clang 
+Build flags: 
+Id flags: -c;--target=x86_64-sie-ps5 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is Clang, found in "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.o"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_9e715 && [1/2] Building C object CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj
+Ubuntu clang version 18.1.8 (++20240731024944+3b5b5c1ec4a3-1~exp1~20240731145000.144)
+Target: x86_64-sie-ps5
+Thread model: posix
+InstalledDir: /usr/lib/llvm-18/bin
+ (in-process)
+ "/usr/lib/llvm-18/bin/clang" -cc1 -triple x86_64-sie-ps5 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -fhalf-no-semantic-interposition -mframe-pointer=non-leaf -fdenormal-fp-math=preserve-sign,preserve-sign -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-plt -funwind-tables=2 -fno-use-init-array -fvisibility-global-new-delete=source -fvisibility-from-dllstorageclass -fvisibility-dllexport=protected -fvisibility-nodllstorageclass=default -fvisibility-externs-dllimport=default -fvisibility-externs-nodllstorageclass=default -target-cpu znver2 -gno-column-info -debugger-tuning=sce -mllvm -generate-arange-section -debug-forward-template-params -dwarf-explicit-import "-fdebug-compilation-dir=/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/CMakeTmp" -v -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/CMakeTmp" -resource-dir /usr/lib/llvm-18/lib/clang/18 -dependency-file CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj.d -MT CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj -sys-header-deps -isysroot /home/vittorio/ps5-payload-sdk/ps5-payload-sdk -isystem /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include -internal-isystem /usr/lib/llvm-18/lib/clang/18/include -internal-externc-isystem /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include -internal-externc-isystem /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include_common -ferror-limit 19 -femulated-tls -fgnuc-version=4.2.1 -fdeclspec -fskip-odr-check-in-gmf -dwarf-debug-flags "/usr/lib/llvm-18/bin/clang --target=x86_64-sie-ps5 -fvisibility-nodllstorageclass=default -isysroot /home/vittorio/ps5-payload-sdk/ps5-payload-sdk -isystem /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include -L/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/lib -L/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/user/homebrew/lib -fno-stack-protector -fno-plt -femulated-tls -lc --target=x86_64-sie-ps5 -v -MD -MT CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c --sysroot=/home/vittorio/ps5-payload-sdk/ps5-payload-sdk -lkernel_web -lSceLibcInternal -lSceNet" -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj -x c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+clang -cc1 version 18.1.8 based upon LLVM 18.1.8 default target x86_64-pc-linux-gnu
+ignoring duplicate directory "/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include
+ /usr/lib/llvm-18/lib/clang/18/include
+ /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include_common
+End of search list.
+[2/2] Linking C static library libcmTC_9e715.a
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include]
+    add: [/usr/lib/llvm-18/lib/clang/18/include]
+    add: [/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include_common]
+  end of search list found
+  collapse include dir [/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include] ==> [/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include]
+  collapse include dir [/usr/lib/llvm-18/lib/clang/18/include] ==> [/usr/lib/llvm-18/lib/clang/18/include]
+  collapse include dir [/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include_common] ==> [/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include_common]
+  implicit include dirs: [/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include;/usr/lib/llvm-18/lib/clang/18/include;/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include_common]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld\.lld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/ninja cmTC_9e715 && [1/2] Building C object CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [Ubuntu clang version 18.1.8 (++20240731024944+3b5b5c1ec4a3-1~exp1~20240731145000.144)]
+  ignore line: [Target: x86_64-sie-ps5]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/lib/llvm-18/bin]
+  ignore line: [ (in-process)]
+  ignore line: [ "/usr/lib/llvm-18/bin/clang" -cc1 -triple x86_64-sie-ps5 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -fhalf-no-semantic-interposition -mframe-pointer=non-leaf -fdenormal-fp-math=preserve-sign preserve-sign -ffp-contract=on -fno-rounding-math -mconstructor-aliases -fno-plt -funwind-tables=2 -fno-use-init-array -fvisibility-global-new-delete=source -fvisibility-from-dllstorageclass -fvisibility-dllexport=protected -fvisibility-nodllstorageclass=default -fvisibility-externs-dllimport=default -fvisibility-externs-nodllstorageclass=default -target-cpu znver2 -gno-column-info -debugger-tuning=sce -mllvm -generate-arange-section -debug-forward-template-params -dwarf-explicit-import "-fdebug-compilation-dir=/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/CMakeTmp" -v -ffunction-sections -fdata-sections "-fcoverage-compilation-dir=/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/CMakeTmp" -resource-dir /usr/lib/llvm-18/lib/clang/18 -dependency-file CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj.d -MT CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj -sys-header-deps -isysroot /home/vittorio/ps5-payload-sdk/ps5-payload-sdk -isystem /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include -internal-isystem /usr/lib/llvm-18/lib/clang/18/include -internal-externc-isystem /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include -internal-externc-isystem /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include_common -ferror-limit 19 -femulated-tls -fgnuc-version=4.2.1 -fdeclspec -fskip-odr-check-in-gmf -dwarf-debug-flags "/usr/lib/llvm-18/bin/clang --target=x86_64-sie-ps5 -fvisibility-nodllstorageclass=default -isysroot /home/vittorio/ps5-payload-sdk/ps5-payload-sdk -isystem /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include -L/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/lib -L/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/user/homebrew/lib -fno-stack-protector -fno-plt -femulated-tls -lc --target=x86_64-sie-ps5 -v -MD -MT CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c --sysroot=/home/vittorio/ps5-payload-sdk/ps5-payload-sdk -lkernel_web -lSceLibcInternal -lSceNet" -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_9e715.dir/CMakeCCompilerABI.c.obj -x c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang -cc1 version 18.1.8 based upon LLVM 18.1.8 default target x86_64-pc-linux-gnu]
+  ignore line: [ignoring duplicate directory "/home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include]
+  ignore line: [ /usr/lib/llvm-18/lib/clang/18/include]
+  ignore line: [ /home/vittorio/ps5-payload-sdk/ps5-payload-sdk/target/include_common]
+  ignore line: [End of search list.]
+  ignore line: [[2/2] Linking C static library libcmTC_9e715.a]
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit objs: []
+  implicit dirs: []
+  implicit fwks: []
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_52e07 && [1/2] Building C object CMakeFiles/cmTC_52e07.dir/CheckIncludeFile.c.obj
+[2/2] Linking C static library libcmTC_52e07.a
+
+
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD succeeded with the following output:
+Change Dir: /mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_7fe69 && [1/2] Building C object CMakeFiles/cmTC_7fe69.dir/src.c.obj
+[2/2] Linking C static library libcmTC_7fe69.a
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+

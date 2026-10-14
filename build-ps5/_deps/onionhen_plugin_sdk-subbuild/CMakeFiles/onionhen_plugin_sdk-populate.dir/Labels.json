@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/CMakeFiles/onionhen_plugin_sdk-populate"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/CMakeFiles/onionhen_plugin_sdk-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/CMakeFiles/onionhen_plugin_sdk-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/onionhen_plugin_sdk-populate-prefix/src/onionhen_plugin_sdk-populate-stamp/onionhen_plugin_sdk-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/onionhen_plugin_sdk-populate-prefix/src/onionhen_plugin_sdk-populate-stamp/onionhen_plugin_sdk-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/onionhen_plugin_sdk-populate-prefix/src/onionhen_plugin_sdk-populate-stamp/onionhen_plugin_sdk-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/onionhen_plugin_sdk-populate-prefix/src/onionhen_plugin_sdk-populate-stamp/onionhen_plugin_sdk-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/onionhen_plugin_sdk-populate-prefix/src/onionhen_plugin_sdk-populate-stamp/onionhen_plugin_sdk-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/onionhen_plugin_sdk-populate-prefix/src/onionhen_plugin_sdk-populate-stamp/onionhen_plugin_sdk-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/onionhen_plugin_sdk-populate-prefix/src/onionhen_plugin_sdk-populate-stamp/onionhen_plugin_sdk-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/Vittorio/Documents/Default Project/onionHEN-kernel-log-plugin/build-ps5/_deps/onionhen_plugin_sdk-subbuild/onionhen_plugin_sdk-populate-prefix/src/onionhen_plugin_sdk-populate-stamp/onionhen_plugin_sdk-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"onionhen_plugin_sdk-populate"
+		],
+		"name" : "onionhen_plugin_sdk-populate"
+	}
+}
