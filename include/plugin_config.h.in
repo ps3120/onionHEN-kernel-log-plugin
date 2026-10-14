@@ -1,0 +1,10 @@
+#pragma once
+
+#define PLUGIN_ID "@ONION_PLUGIN_ID@"
+#define PLUGIN_VERSION "@ONION_PLUGIN_VERSION@"
+#define PLUGIN_NAME "@ONION_PLUGIN_NAME@"
+#define PLUGIN_DEFAULT_PORT 3232
+#define PLUGIN_LOG_PATH "/data/OnionHEN/@ONION_PLUGIN_ID@.log"
+#define PLUGIN_SETTINGS_PATH "/data/OnionHEN/plugins/@ONION_PLUGIN_ID@.ini"
+#define KLOGSRV_RUNTIME_PATH "/data/OnionHEN/kernellog/klogsrv-ps5.elf"
+#define KLOGSRV_PID_PATH "/data/OnionHEN/kernellog/klogsrv-ps5.pid"
